@@ -39,7 +39,7 @@ Clone or download this project. Then run the `main.py` file to play the game. Yo
 
 ## Acknowledgments
 
-About game: https://en.wikipedia.org/wiki/Minesweeper_(video_game
+About game: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 
 ## Inspirations -
