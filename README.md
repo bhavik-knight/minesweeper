@@ -23,7 +23,7 @@ The entire project is developed using `python` language. `Pygame` module is used
 
 1. Clone or download this project. 
 2. Go to the minesweeper directory. Run the `main.py` file to play the game. You can also do with the command `python3 main.py` at your terminal.
-3. If there is an `import error`, in case that you don't already have `pygame` installed. Run pip install -r requirement.txt` command to install rquired module.
+3. If there is an `import error`, in case that you don't already have `pygame` installed. Run `pip install -r requirement.txt` command to install rquired module.
 4. Repeat step-2.
 
 
