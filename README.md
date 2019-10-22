@@ -42,7 +42,7 @@ Clone or download this project. Then run the `main.py` file to play the game. Yo
 About game: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 
-## Inspirations -
+## Inspirations
 
   1. David J. Malan, the Harvard professor who teaches cs50 (one of the many courses).
   2. Colton Ogden, the cs50 staff who live-streamed this game development on [Twitch](https://www.twitch.tv/cs50tv) using `Lua` language, he also taught [game-dev](https://cs50.harvard.edu/games/) course at Harvard.
