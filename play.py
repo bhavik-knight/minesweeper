@@ -35,7 +35,7 @@ def base_state():
     welcome.display_text_box(game_window, pos_x, pos_y)
 
     # coder name
-    coder = Fonts("<< coded by:~ Bhavik Knight >>", "yellow")
+    coder = Fonts("<< coded by:~ Bhavik >>", "yellow")
     pos_x = (window_width - coder.get_text_box().get_width() - text_padding) // 2
     pos_y = window_height // 3
     coder.display_text_box(game_window, pos_x, pos_y)
